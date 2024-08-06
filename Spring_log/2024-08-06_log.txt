@@ -1,0 +1,4 @@
+com.simple.basic.service.score.ScoreServiceImpl@b161628
+public abstract java.util.List com.simple.basic.service.score.ScoreService.getList()
+[]
+188
